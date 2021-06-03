@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51375" started-at="2021-06-02T18:51:21 CDT" finished-at="2021-06-02T18:52:12 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51375" started-at="2021-06-02T18:51:21 CDT" finished-at="2021-06-02T18:52:12 CDT">
+      <class name="variousCocepts.LoginTest_TestNG">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousCocepts.LoginTest_TestNG@4e7dc304]" name="readConfig" is-config="true" duration-ms="15" started-at="2021-06-02T18:51:21 CDT" finished-at="2021-06-02T18:51:21 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousCocepts.LoginTest_TestNG@4e7dc304]" name="init" is-config="true" duration-ms="14652" started-at="2021-06-02T18:51:21 CDT" finished-at="2021-06-02T18:51:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:variousCocepts.LoginTest_TestNG@4e7dc304]" name="loginTest" duration-ms="8159" started-at="2021-06-02T18:51:35 CDT" finished-at="2021-06-02T18:51:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:variousCocepts.LoginTest_TestNG@4e7dc304]" name="tearDown" is-config="true" duration-ms="3744" started-at="2021-06-02T18:51:44 CDT" finished-at="2021-06-02T18:51:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousCocepts.LoginTest_TestNG@4e7dc304]" name="init" is-config="true" duration-ms="7549" started-at="2021-06-02T18:51:47 CDT" finished-at="2021-06-02T18:51:55 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomerTest()[pri:2, instance:variousCocepts.LoginTest_TestNG@4e7dc304]" name="addCustomerTest" duration-ms="14405" started-at="2021-06-02T18:51:55 CDT" finished-at="2021-06-02T18:52:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:variousCocepts.LoginTest_TestNG@4e7dc304]" name="tearDown" is-config="true" duration-ms="2772" started-at="2021-06-02T18:52:09 CDT" finished-at="2021-06-02T18:52:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- variousCocepts.LoginTest_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
